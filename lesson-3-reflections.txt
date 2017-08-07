@@ -1,0 +1,7 @@
+Course: How to Use Git and GitHub
+Lesson 3: Using Git Hub to Collaborate
+Author: Michael Fryar
+Date: August 7, 2017
+
+When would you want to use a remote repository rather than keeping all your work local?
+        I would want to use a remote repsoitory when working with collaborators.
